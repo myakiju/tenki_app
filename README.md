@@ -1,23 +1,19 @@
 
 
-# How to Be Serenaded 👼🏽
+# How to run
 
 Type the following into your terminal:
 ```
-git clone git@github.com:cristinamurillo/thea_serenade.git
+git clone https://github.com/myakiju/tenki_app.git
 ```
 Then, type:
 
 ```
-cd thea_serenade
+cd tenki_app
 ```
-
-Finally, to be serenaded:
+Then, type:
 
 ```
 bundle install
 ruby run.rb
 ```
-
-# 💜 💜 💜
-
